@@ -10,3 +10,6 @@
 - React: Biblioteca JavaScript para construção de interfaces de usuário.
 - CSS: Estilização da interface.
 - JavaScript: Lógica da aplicação.
+
+  #### O projeto está localizado na Master
+  - Para acessar meu projeto da calculadora basta branche para Master
